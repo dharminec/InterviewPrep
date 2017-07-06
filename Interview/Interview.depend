@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1493953193 source:c:\users\rathod\desktop\interview\interview\linkedlist.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1493713806 source:c:\users\rathod\desktop\interview\interview\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1493781004 source:c:\users\rathod\desktop\interview\interview\queue.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1494055359 source:c:\users\rathod\desktop\interview\interview\levelordertraversalbst.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1493954750 source:c:\users\rathod\desktop\interview\interview\dbl.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1499128230 source:c:\users\rathod\desktop\interview\interview\temp.cpp
+	<stdio.h>
+
+1494208477 source:c:\users\rathod\desktop\interview\interview\src\cstack.cpp
+	<string>
+
+1494388244 source:c:\users\rathod\desktop\interview\interview\insertionsort.c
+	<stdio.h>
+	<math.h>
+
+1494563447 source:c:\users\rathod\desktop\interview\interview\sm.c
+	<stdio.h>
+
+1494097335 source:c:\users\rathod\desktop\interview\interview\stack.cpp
+	<iostream>
+
+1493964957 source:c:\users\rathod\desktop\interview\interview\xor_dbl.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1494808542 source:c:\users\rathod\desktop\interview\interview\inorederwithoutrecursion.c
+	<stdio.h>
+	<stdlib.h>
+
+1497132054 source:c:\users\rathod\desktop\interview\interview\mergersort.c
+	<stdio.h>
+	<stdlib.h>
+
